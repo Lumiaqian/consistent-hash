@@ -1,3 +1,3 @@
 module github.com/Lumiaqian/consistent-hash
 
-go 1.22
+go 1.18
